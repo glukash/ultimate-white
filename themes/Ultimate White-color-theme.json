@@ -3,7 +3,7 @@
   "type": "light",
   "colors": {
     "focusBorder": "#fafbfc",
-    "editor.background": "#ffffff",
+    "editor.background": "#e2e2e2",
     "editor.foreground": "#24292e",
     "editor.lineHighlightBackground": "#fffbdd",
     "editorIndentGuide.background": "#eeeeee",
